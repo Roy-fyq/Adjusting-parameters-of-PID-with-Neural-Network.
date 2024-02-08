@@ -11,3 +11,5 @@ Use Pytorch to build a simple network architecture, and then the loss function i
 ``bp_pid.ipynb`` This is a demo of using BP_PID algorithm.
 
 ``compare.py`` This is a demo of plotting the result of PID and BP_PID.
+### Configure the following python environment
+pandas、numpy、torch、matplotlib
