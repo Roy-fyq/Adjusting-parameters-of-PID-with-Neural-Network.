@@ -5,6 +5,9 @@ Use Pytorch to build a simple network architecture, and then the loss function i
 ​**However, the network is unstable, possibly due to parameter tuning problems of the neural network. You can run it several times to get a better result. In the Result folder, the better results of my operation are shown.**
 ### The role of each file
 ``PID_INC.py`` This is an algorithm of PID.
+
 ``pid_control.ipynb`` This is a demo of using PID algorithm.
+
 ``bp_pid.ipynb`` This is a demo of using BP_PID algorithm.
+
 ``compare.py`` This is a demo of plotting the result of PID and BP_PID.
