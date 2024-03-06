@@ -13,3 +13,6 @@ Use Pytorch to build a simple network architecture, and then the loss function i
 ``compare.py`` This is a demo of plotting the result of PID and BP_PID.
 ### Configure the following python environment
 pandas、numpy、torch、matplotlib
+
+## Update
+```BP_PID.py``` is a more stable version.
