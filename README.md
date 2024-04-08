@@ -16,3 +16,5 @@ pandas、numpy、torch、matplotlib
 
 ## Update
 ```BP_PID.py``` is a more stable version.
+2024.04.08update:
+```bp_numpy.py``` is a version by using numpy to construct.
